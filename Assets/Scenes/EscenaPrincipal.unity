@@ -205,6 +205,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  txt: {fileID: 98749934}
 --- !u!114 &44846322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -338,7 +339,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Escuchando...
+  m_Text: 
 --- !u!222 &98749935
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -425,7 +426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11446614, guid: b2464bcbb9cb0e148844469d8bdd76dd, type: 3}
       propertyPath: isShowPopupAndroid
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1278,12 +1279,12 @@ PrefabInstance:
     - target: {fileID: 114451114881936422, guid: a592da1d5e8dba34f96c7ca9db6bc203,
         type: 3}
       propertyPath: rate
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 114451114881936422, guid: a592da1d5e8dba34f96c7ca9db6bc203,
         type: 3}
       propertyPath: pitch
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
